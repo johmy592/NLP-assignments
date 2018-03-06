@@ -1,0 +1,10 @@
+from collections import defaultdict
+
+pro_dict = defaultdict(list)
+with open("charmap") as f:
+	for line in f:
+		chinese_char,pron = line.split()
+		pro_dict[pron].append(chinese_char)
+
+print(len(pro_dict['yi']))
+print(pro_dict['yi'])

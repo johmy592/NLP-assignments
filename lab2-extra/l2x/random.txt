@@ -1,0 +1,10 @@
+Witten-Bell smoothing proved quite tricky to implement and to fully understand. But it was quite gratifying once
+you got it to work and started to understand and see the clear advantage of distributing the probability mass 
+based on the m-1 gram instead of doing it uniformly. This extra lab was also a nic example of concrete usage.
+In this lad you also started to appreciate the importance of having good and complete data-sets for training, 
+since unseen data can be such a problem.
+
+
+Lab3: Nice introduction to feature-engineering.
+
+Lab4: Implementing the Eisner algorithm proved quite tricky 
